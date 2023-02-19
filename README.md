@@ -18,5 +18,5 @@ The file is too large to upload directly through GitHub, you must download it fr
 This is from a few months ago, but it's highly unlikely that anything is outdated.
 
 # File
-VirusTotal scan: https://www.virustotal.com/gui/file/e6433e24ef709e43f9d2998685e766cf52be55d0fefd3423e8e339fdfc95fe0c?nocache=1
-SHA-256 e6433e24ef709e43f9d2998685e766cf52be55d0fefd3423e8e339fdfc95fe0c
+- Scan: https://www.virustotal.com/gui/file/e6433e24ef709e43f9d2998685e766cf52be55d0fefd3423e8e339fdfc95fe0c?nocache=1
+- SHA-256: e6433e24ef709e43f9d2998685e766cf52be55d0fefd3423e8e339fdfc95fe0c
